@@ -1,0 +1,5 @@
+argostranslate
+mss
+pillow
+pytesseract
+opencv-python
